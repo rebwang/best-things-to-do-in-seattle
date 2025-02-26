@@ -41,6 +41,8 @@ GIF created with LICEcap
 
 Describe any challenges encountered while building the app.
 
+Since there was no starter code or instructions, starting from scratch was challenging. The hardest part was that it was my first time learning React, so I wasn’t familiar with much of the syntax. As a result, I spent most of my time looking up syntax and understanding the structure.
+
 ## License
 
     Copyright [2025] [Wang Lu Yin]
