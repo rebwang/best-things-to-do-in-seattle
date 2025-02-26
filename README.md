@@ -21,8 +21,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] List anything else that you added to improve the site's functionality!
-- Customize the tab name and tab icon to the topic
-- Add a banner image that matches with the topic
+- Customized tab name and tab icon catering to the topic
+- Add a banner image that matches the topic
 
 ## Video Walkthrough
 
